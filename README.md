@@ -1,4 +1,4 @@
-# CHIP-SEQ ANALYSIS
+# CHIP/ATAC-SEQ ANALYSIS
 
 ## Prerequisites
 
